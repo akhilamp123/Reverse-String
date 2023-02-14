@@ -9,5 +9,6 @@ for (int i = 0; i < input.Length; i++)
     j--; 
 }
 string reversed = new string(charArray);
+Console.WriteLine(input);
 Console.WriteLine(reversed); 
 
