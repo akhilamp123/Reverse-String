@@ -1,6 +1,6 @@
 ﻿
 
-string input = "AKHILA"; 
+string input = "FLOWERS"; 
 char[] charArray = new char[input.Length];
 int j = input.Length - 1;
 for (int i = 0; i < input.Length; i++) 
